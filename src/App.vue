@@ -5,13 +5,13 @@ import HelloWorld from './components/HelloWorld.vue'
 <template>
   <div>
     <a href="https://vitejs.dev" target="_blank">
-      <img src="/vite.svg" class="logo" alt="Vite logo" />
+      <img src="./assets/wallabygolf1.jpeg" class="logo" alt="Wallabylogo" />
     </a>
     <a href="https://vuejs.org/" target="_blank">
       <img src="./assets/vue.svg" class="logo vue" alt="Vue logo" />
     </a>
   </div>
-  <HelloWorld msg="Vite + Vue" />
+  <HelloWorld msg="Welcome to Wallaby Golf Club" />
 </template>
 
 <style scoped>
